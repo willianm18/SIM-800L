@@ -1,2 +1,0 @@
-# SIM-800L
-First Test SIM800L
